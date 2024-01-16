@@ -64,7 +64,7 @@ def save_json(path: Path, data: dict):
     logger.info(f"json file saved at: {path}")
     
 @ensure_annotations
-def laod_json_path(path: Path) -> ConfigBox:
+def load_json(path: Path) -> ConfigBox:
     """load json file data
 
     Args:
