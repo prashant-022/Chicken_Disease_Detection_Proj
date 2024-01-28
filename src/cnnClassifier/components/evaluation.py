@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 import tensorflow as tf
 from pathlib import Path
 from cnnClassifier.entity.config_entity import EvaluationConfig
+=======
+from cnnClassifier.entity.config_entity import EvaluationConfig
+from pathlib import Path
+import tensorflow as tf
+>>>>>>> 413fc30a4485cd57ca6edba15a836356c7dbe2d7
 from cnnClassifier.utils.common import save_json
 
 class Evaluation:
