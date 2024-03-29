@@ -1,6 +1,6 @@
 # Chicken_Disease_Detection_Project
 
-## Work Flows:
+## Work Flows Structure:
 1. Update config.yaml 
 2. Update secrets.yaml [optional]
 3. Update params.yaml
@@ -10,3 +10,4 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
