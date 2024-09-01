@@ -39,7 +39,11 @@ stages:
       - IMAGE_SIZE
       - EPOCHS
       - BATCH_SIZE
+<<<<<<< HEAD
       - AUGMENTAION
+=======
+      - AUGMENTATION
+>>>>>>> 40348f2b25f982939d8af26b442903539fa9d1dc
     outs:
       - artifacts/training/model.h5
 
